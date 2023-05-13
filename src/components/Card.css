@@ -1,0 +1,9 @@
+.Card {
+    border-style: solid;
+    display: flex;
+    margin: 10px;
+}
+
+.Card img{
+    height: 120px;
+}
